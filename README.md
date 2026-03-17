@@ -68,8 +68,8 @@ Four analytical queries are written to extract business insights from the popula
 
 | File | Description |
 |------|-------------|
-| `marketplace.sql` | Full SQL script — DDL, DML, and all Part B queries |
-| `SQL_Assignment.pdf` | Assignment question sheet with schema specs and query tasks |
+| `OEL-1.sql` | Full SQL script — DDL, DML, and all Part B queries |
+| `Database_Assignment_Question.pdf` | Assignment question sheet with schema specs and query tasks |
 | `README.md` | This file |
 
 ---
