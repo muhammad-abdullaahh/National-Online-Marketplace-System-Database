@@ -77,5 +77,5 @@ Four analytical queries are written to extract business insights from the popula
 ## Author
 
 **Muhammad Abdullah**
-BS Computer Science — Karachi, Pakistan
+BSE student — Karachi, Pakistan
 [GitHub](https://github.com/muhammad-abdullaahh) • [LinkedIn](https://linkedin.com/in/muhammad-abdullaahh)
